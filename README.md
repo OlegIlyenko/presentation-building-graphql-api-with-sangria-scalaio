@@ -1,5 +1,5 @@
-## "GraphQL - a type system for your API" presentation at ScalaDays
+## "Building GraphQL API with Sangria" presentation at Scala.io 2018
 
-Full URL: [https://olegilyenko.github.io/presentation-graphql-type-system-scaladays](https://olegilyenko.github.io/presentation-graphql-type-system-scaladays)
+Full URL: [https://olegilyenko.github.io/presentation-building-graphql-api-with-sangria-scalaio/](https://olegilyenko.github.io/presentation-building-graphql-api-with-sangria-scalaio/)
 
-Short URL: [http://bit.ly/scaladays-graphql](http://bit.ly/scaladays-graphql)
+Short URL: [http://bit.ly/scalaio-graphql](http://bit.ly/scalaio-graphql)
